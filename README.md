@@ -30,6 +30,7 @@ Este projeto é ideal para você que:
 4. Envie seu currículo em PDF para este repositório
 5. Ative o GitHub Pages nas configurações
 6. Compartilhe seu link com o mundo!
+7. Nâo esqueça de dar um Star nesse Repo, se ele tiver te ajudado!
 
 ---
 
